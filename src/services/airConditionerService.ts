@@ -39,6 +39,7 @@ enum SwitchState {
 
 enum OptionalMode {
   Off = 'off',
+  Quiet = 'quiet',
   Sleep = 'sleep',
   Speed = 'speed',
   WindFree = 'windFree',
